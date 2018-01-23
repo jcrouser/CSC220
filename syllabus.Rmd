@@ -17,7 +17,7 @@ There is no required textbook for the course. However, there are many online res
 
 <hr>
 ## Coding Challenges
-There will be weekly coding challenges throughout the semester, and will be started in class. These will be completed in groups of 3 students, and will be due on [Moodle](https://moodle.smith.edu/course/view.php?id=27778) by 5pm on Friday evenings. 
+There will be weekly coding challenges throughout the semester, and will be started in class. These will be completed in groups of 3 students, and will be submitted via [Moodle](https://moodle.smith.edu/course/view.php?id=27778). 
 
 <hr>
 ## Collaboration and Academic Integrity

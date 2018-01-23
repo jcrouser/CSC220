@@ -7,27 +7,27 @@ The following schedule is subject to change at any time.
 | ---------|------------|----------------|
 | 1/25/18  | Introduction ||
 | 1/30/18  | Python: language overview ||
-| 2/1/18   | Comprehensions, iterators, and generators ||
+| 2/1/18   | Comprehensions, iterators, and generators |CC1|
 | 2/6/18   | Decorators and wrappers ||
-| 2/8/18   | Dynamic programming ||
+| 2/8/18   | Dynamic programming |CC2|
 | 2/13/18  | Multiprocessing ||
-| 2/15/18  | The Great Python Race ||
+| 2/15/18  | The Great Python Race |CC3|
 | 2/20/18  | JavaScript: language overview ||
-| 2/22/18  | JS objects ||
+| 2/22/18  | JS objects |CC4|
 | 2/27/18  | Working with functions ||
-| 3/1/18   | Events ||
+| 3/1/18   | Events |CC5|
 | 3/6/18   | Promises ||
-| 3/8/18   | JS + Python = :-) ||
+| 3/8/18   | JS + Python = :-) |CC6|
 | 3/13/18  | SPRING ||
 | 3/15/18  | BREAK ||
 | 3/20/18  | Java: language overview ||
-| 3/22/18  | Streams and MapReduce ||
+| 3/22/18  | Streams and MapReduce |CC7|
 | 3/27/18  | Hadoop ||
-| 3/29/18  | Parallel sorts and joins ||
+| 3/29/18  | Parallel sorts and joins |CC8|
 | 4/3/18   | Julia: language overview ||
-| 4/5/18   | Metaprogramming ||
+| 4/5/18   | Metaprogramming |CC9|
 | 4/10/18  | JIT complation  ||
-| 4/12/18  | Distributed computation  ||
+| 4/12/18  | Distributed computation  |CC10|
 | 4/17/18  | Student Project Workshop ||
 | 4/19/18  | Student Project Workshop ||
 | 4/24/18  | Student Project Demos ||
