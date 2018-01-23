@@ -16,7 +16,6 @@ There is no required textbook for the course. However, there are many online res
 - [An Introduction to Julia (EngineersGarage)](https://www.engineersgarage.com/guest-posts/overview-julia-high-performance-scientific-computation-language)
 
 <hr>
-<<<<<<< HEAD
 ## Coding Challenges
 There will be weekly coding challenges throughout the semester, and will be started in class. These will be completed in groups of 3 students, and will be due on [Moodle](https://moodle.smith.edu/course/view.php?id=27778) by 5pm on Friday evenings. 
 
