@@ -1,7 +1,11 @@
 name: "CSC220-website"
 output_dir: "."
 navbar:
+<<<<<<< HEAD
   title: "CSC220 - Spring 2018"
+=======
+  title: "CSC250 - Spring 2018"
+>>>>>>> 83d73dd7f5cdbb3f8f71ecf26ca724b15df3a61f
   left:
     - text: "Home"
       href: index.html
