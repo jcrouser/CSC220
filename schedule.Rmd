@@ -26,7 +26,7 @@ The following schedule is subject to change at any time.
 | 3/29/18  | Parallel sorts and joins |CC8|
 | 4/3/18   | Julia: language overview ||
 | 4/5/18   | Metaprogramming |CC9|
-| 4/10/18  | JIT complation  ||
+| 4/10/18  | JIT compilation  ||
 | 4/12/18  | Distributed computation  |CC10|
 | 4/17/18  | Student Project Workshop ||
 | 4/19/18  | Student Project Workshop ||
