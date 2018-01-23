@@ -3,7 +3,7 @@ title: "Schedule"
 ---
 The following schedule is subject to change at any time.
 
-| **Date** | **Topic**  | **Due** |
+| **Date** | **Topic**  | **Assignment** |
 | ---------|------------|:----------------:|
 | 1/25/18  | Introduction ||
 | 1/30/18  | Python: language overview ||
