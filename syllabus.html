@@ -20,8 +20,8 @@
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
-<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
-<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<link href="site_libs/highlightjs-1.1/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-1.1/highlight.js"></script>
 
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
@@ -30,12 +30,10 @@
   }
 </style>
 <script type="text/javascript">
-if (window.hljs) {
-  hljs.configure({languages: []});
-  hljs.initHighlightingOnLoad();
-  if (document.readyState && document.readyState === "complete") {
-    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
-  }
+if (window.hljs && document.readyState && document.readyState === "complete") {
+   window.setTimeout(function() {
+      hljs.initHighlighting();
+   }, 0);
 }
 </script>
 
@@ -220,7 +218,7 @@ $(document).ready(function () {
 <h2>Course Materials</h2>
 <p>There is no required textbook for the course. However, there are many online resources that some students may find helpful, e.g.:</p>
 <ul>
-<li><a href="http://www.python-academy.com/courses/specialtopics/python_course_advanced.html">Advanced Python (Python Academy)</a></li>
+<li><a href="https://developers.google.com/edu/python/">Google’s Python Class</a></li>
 <li><a href="https://javascript.info/">The Modern JavaScript Tutorial</a></li>
 <li><a href="https://www.ibm.com/developerworks/java/tutorials/j-intermed/j-intermed.html">Intermediate Java Programming (IBM DeveloperWorks)</a></li>
 <li><a href="https://www.engineersgarage.com/guest-posts/overview-julia-high-performance-scientific-computation-language">An Introduction to Julia (EngineersGarage)</a></li>

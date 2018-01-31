@@ -10,7 +10,7 @@ This website will serve as the primary syllabus for this course. All course-rela
 ## Course Materials
 There is no required textbook for the course. However, there are many online resources that some students may find helpful, e.g.:
 
-- [Advanced Python (Python Academy)](http://www.python-academy.com/courses/specialtopics/python_course_advanced.html)
+- [Google's Python Class](https://developers.google.com/edu/python/)
 -	[The Modern JavaScript Tutorial](https://javascript.info/)
 - [Intermediate Java Programming (IBM DeveloperWorks)](https://www.ibm.com/developerworks/java/tutorials/j-intermed/j-intermed.html)
 - [An Introduction to Julia (EngineersGarage)](https://www.engineersgarage.com/guest-posts/overview-julia-high-performance-scientific-computation-language)
