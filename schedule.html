@@ -20,8 +20,8 @@
 <script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
 <script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
 <script src="site_libs/navigation-1.1/tabsets.js"></script>
-<link href="site_libs/highlightjs-1.1/default.css" rel="stylesheet" />
-<script src="site_libs/highlightjs-1.1/highlight.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
 
 <style type="text/css">code{white-space: pre;}</style>
 <style type="text/css">
@@ -30,10 +30,12 @@
   }
 </style>
 <script type="text/javascript">
-if (window.hljs && document.readyState && document.readyState === "complete") {
-   window.setTimeout(function() {
-      hljs.initHighlighting();
-   }, 0);
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
 }
 </script>
 
@@ -270,18 +272,18 @@ $(document).ready(function () {
 </tr>
 <tr class="odd">
 <td>3/1/18</td>
-<td>Events</td>
-<td align="center">CC5</td>
+<td>CLASS CANCELLED</td>
+<td align="center"></td>
 </tr>
 <tr class="even">
 <td>3/6/18</td>
 <td>Promises</td>
-<td align="center"></td>
+<td align="center">CC5</td>
 </tr>
 <tr class="odd">
 <td>3/8/18</td>
 <td>JS + Python = :-)</td>
-<td align="center">CC6</td>
+<td align="center"></td>
 </tr>
 <tr class="even">
 <td>3/13/18</td>
@@ -301,7 +303,7 @@ $(document).ready(function () {
 <tr class="odd">
 <td>3/22/18</td>
 <td>Streams and MapReduce</td>
-<td align="center">CC7</td>
+<td align="center">CC6</td>
 </tr>
 <tr class="even">
 <td>3/27/18</td>
@@ -311,7 +313,7 @@ $(document).ready(function () {
 <tr class="odd">
 <td>3/29/18</td>
 <td>Parallel sorts and joins</td>
-<td align="center">CC8</td>
+<td align="center">CC7</td>
 </tr>
 <tr class="even">
 <td>4/3/18</td>
@@ -321,7 +323,7 @@ $(document).ready(function () {
 <tr class="odd">
 <td>4/5/18</td>
 <td>Metaprogramming</td>
-<td align="center">CC9</td>
+<td align="center">CC8</td>
 </tr>
 <tr class="even">
 <td>4/10/18</td>
@@ -331,7 +333,7 @@ $(document).ready(function () {
 <tr class="odd">
 <td>4/12/18</td>
 <td>Distributed computation</td>
-<td align="center">CC10</td>
+<td align="center">CC9</td>
 </tr>
 <tr class="even">
 <td>4/17/18</td>
