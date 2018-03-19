@@ -20,17 +20,17 @@ The following schedule is subject to change at any time.
 | 3/8/18   | Promises, JS + Python = :-) Demos: [Famous Smithies](requests.zip), [Can Store](canStore.zip)|CC5|
 | 3/13/18  | SPRING ||
 | 3/15/18  | BREAK ||
-| 3/20/18  | Java: language overview ||
-| 3/22/18  | Streams and MapReduce |CC6|
-| 3/27/18  | Hadoop ||
-| 3/29/18  | Parallel sorts and joins |CC7|
-| 4/3/18   | Julia: language overview ||
-| 4/5/18   | Metaprogramming |CC8|
-| 4/10/18  | JIT compilation  ||
-| 4/12/18  | Distributed computation  |CC9|
-| 4/17/18  | Student Project Workshop ||
+| 3/20/18  | MSA, Java: language overview ||
+| 3/22/18  | Guest speaker: [Elijah Gwynn, Uptrust](http://www.uptrust.co/team-1) ||
+| 3/27/18  | Streams and MapReduce |CC6|
+| 3/29/18  | Hadoop ||
+| 4/3/18   | Parallel sorts and joins |CC7|
+| 4/5/18   | Julia: language overview  ||
+| 4/10/18  | Metaprogramming and JIT compilation  |CC8|
+| 4/12/18  | Guest speaker: [Lauren Milechin, MITLL](https://www.ll.mit.edu/mission/cybersec/cybersec-bios/milechin-bio.html)  ||
+| 4/17/18  | More on distributed computation |CC9|
 | 4/19/18  | Student Project Workshop ||
-| 4/24/18  | Student Project Demos ||
+| 4/24/18  | Student Project Workshop ||
 | 4/26/18  | Student Project Demos ||
 | 5/1/18   | Student Project Demos ||
 | 5/3/18   | Student Project Demos ||
