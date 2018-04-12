@@ -27,7 +27,7 @@ The following schedule is subject to change at any time.
 | 4/3/18   | Student Project Workshop I ||
 | 4/5/18   | [Julia: language overview](https://www.youtube.com/watch?v=zJ_d3oWuogw)  |CC7|
 | 4/10/18  | Metaprogramming and JIT compilation  |FP1|
-| 4/12/18  | Guest speaker: [Lauren Milechin, MITLL](https://www.ll.mit.edu/mission/cybersec/cybersec-bios/milechin-bio.html)  |CC8|
+| 4/12/18  | Guest speaker: [Lauren Milechin, MIT](https://www.linkedin.com/in/lauren-milechin/)  |CC8|
 | 4/17/18  | More on distributed computation |FP2|
 | 4/19/18  | Student Project Workshop II ||
 | 4/24/18  | Student Project Workshop III |FP3|
