@@ -30,7 +30,7 @@ The following schedule is subject to change at any time.
 | 4/12/18  | Guest speaker: [Lauren Milechin, MIT](https://www.linkedin.com/in/lauren-milechin/)  |CC8|
 | 4/17/18  | The Right Tool for the Job |FP2|
 | 4/19/18  | Student Project Workshop II ||
-| 4/24/18  | Student Project Workshop III |FP3|
-| 4/26/18  | Student Project Demos ||
+| 4/24/18  | Student Project Workshop III ||
+| 4/26/18  | Student Project Demos |FP3|
 | 5/1/18   | Student Project Demos ||
 | 5/3/18   | Student Project Demos ||
